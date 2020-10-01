@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend_bobble/static/css/main.80919131.chunk.css",
+    "main.js": "/frontend_bobble/static/js/main.29c048d6.chunk.js",
+    "main.js.map": "/frontend_bobble/static/js/main.29c048d6.chunk.js.map",
+    "runtime-main.js": "/frontend_bobble/static/js/runtime-main.ac2bcc90.js",
+    "runtime-main.js.map": "/frontend_bobble/static/js/runtime-main.ac2bcc90.js.map",
+    "static/js/2.a70d5574.chunk.js": "/frontend_bobble/static/js/2.a70d5574.chunk.js",
+    "static/js/2.a70d5574.chunk.js.map": "/frontend_bobble/static/js/2.a70d5574.chunk.js.map",
+    "index.html": "/frontend_bobble/index.html",
+    "precache-manifest.2bc24b471a3f3d911d8392a3700ead18.js": "/frontend_bobble/precache-manifest.2bc24b471a3f3d911d8392a3700ead18.js",
+    "service-worker.js": "/frontend_bobble/service-worker.js",
+    "static/css/main.80919131.chunk.css.map": "/frontend_bobble/static/css/main.80919131.chunk.css.map",
+    "static/js/2.a70d5574.chunk.js.LICENSE.txt": "/frontend_bobble/static/js/2.a70d5574.chunk.js.LICENSE.txt",
+    "static/media/bobble.jpg": "/frontend_bobble/static/media/bobble.38987466.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac2bcc90.js",
+    "static/js/2.a70d5574.chunk.js",
+    "static/css/main.80919131.chunk.css",
+    "static/js/main.29c048d6.chunk.js"
+  ]
+}
